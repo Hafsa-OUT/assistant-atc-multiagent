@@ -1,0 +1,138 @@
+PROCÉDURES D'URGENCE ET MÉTÉOROLOGIE AÉRONAUTIQUE
+Source: OACI Annexe 2, Doc 4444, Doc 9426
+
+=== PHASES D'URGENCE ===
+
+1. PHASE D'INCERTITUDE (INCERFA)
+- Déclarée quand un aéronef ne donne pas de nouvelles depuis 30 minutes
+- Ou quand l'aéronef n'arrive pas dans les 30 minutes après l'heure estimée
+- Action ATC : tenter d'établir contact radio, alerter le RCC (Rescue Coordination Centre)
+- Phraséologie : "INCERFA déclaré pour [indicatif] à [heure]"
+
+2. PHASE D'ALERTE (ALERFA)
+- Déclarée après échec des tentatives de contact en phase INCERFA
+- Ou quand aéronef autorisé à atterrir ne se pose pas dans les 5 minutes
+- Ou quand information reçue indique difficultés sans danger immédiat
+- Action ATC : alerter immédiatement RCC, informer superviseur, dégager espace aérien
+
+3. PHASE DE DÉTRESSE (DETRESFA)
+- Déclarée quand aéronef en danger immédiat nécessitant assistance immédiate
+- Carburant insuffisant, panne moteur, incendie à bord, dépressurisation
+- Action ATC : priorité absolue, dégager espace aérien, alerter services de secours
+- Coordonner avec aéroport pour services d'urgence (pompiers, SAMU)
+
+=== SIGNAUX D'URGENCE ===
+
+1. MAYDAY (Détresse)
+- Signal : "MAYDAY MAYDAY MAYDAY"
+- Situation : danger grave et imminent, assistance immédiate requise
+- Fréquence urgence : 121.5 MHz (surveillance obligatoire)
+- Transpondeur : code 7700
+- Action ATC immédiate :
+  * Accuser réception : "MAYDAY [indicatif] reçu, vous êtes numéro 1"
+  * Dégager espace aérien autour de l'aéronef en détresse
+  * Alerter aéroport de destination (services incendie, ambulances)
+  * Informer superviseur immédiatement
+  * Ouvrir plan de coordination d'urgence
+
+2. PAN-PAN (Urgence)
+- Signal : "PAN-PAN PAN-PAN PAN-PAN"
+- Situation : urgence non immédiate, assistance souhaitée
+- Exemples : passager malade, problème technique mineur, carburant limité
+- Transpondeur : code 7700 si nécessaire
+- Action ATC : priorité de traitement, informer superviseur, préparer dégagement
+
+3. SQUAWK CODES URGENCE
+- 7700 : urgence générale (MAYDAY/PAN-PAN)
+- 7600 : panne radio (NORDO - No Radio)
+- 7500 : détournement (hijacking) - NE JAMAIS MENTIONNER SUR FRÉQUENCE
+- 2000 : aéronef sans clairance en espace contrôlé
+
+=== PROCÉDURES PANNE RADIO (NORDO) ===
+
+1. AÉRONEF NORDO EN VMC (Conditions Météo de Vol à Vue)
+- L'aéronef doit atterrir sur l'aérodrome le plus proche
+- ATC : surveiller le transpondeur (7600), regarder les signaux lumineux
+- Signaux lumineux tour de contrôle :
+  * Vert fixe : autorisé à atterrir
+  * Rouge fixe : cédez le passage, continuez le circuit
+  * Vert clignotant : retournez atterrir
+  * Rouge clignotant : aérodrome dangereux, n'atterrissez pas
+  * Blanc clignotant : atterrissez sur cet aérodrome
+
+2. AÉRONEF NORDO EN IMC (Conditions Météo de Vol aux Instruments)
+- L'aéronef suit la procédure NORDO publiée
+- Maintient dernière clairance reçue pendant 7 minutes
+- Puis procède vers destination et effectue approche aux instruments
+- ATC : dégager espace aérien sur route probable, alerter aéroport destination
+
+=== MÉTÉOROLOGIE AÉRONAUTIQUE ===
+
+1. PHÉNOMÈNES DANGEREUX
+
+WINDSHEAR (Cisaillement du Vent)
+- Variation brutale de vitesse/direction du vent sur courte distance
+- Extrêmement dangereux en phase d'approche et décollage
+- Causes : microburst, front, inversions thermiques
+- Signalement pilote : "Windshear signalé par [indicatif] à [position] à [heure]"
+- Action ATC : diffuser immédiatement à tous les aéronefs en approche/départ
+- Phraséologie : "[Indicatif], windshear signalé sur approche, perte/gain de [X] noeuds à [altitude]"
+
+TURBULENCES
+- Légère (Light) : légère gêne, pas de danger
+- Modérée (Moderate) : difficultés de maintien altitude/cap, ceintures obligatoires
+- Sévère (Severe) : impossibilité de contrôler l'avion momentanément, danger
+- Extrême (Extreme) : structural damage possible
+- Action ATC : informer les aéronefs suivants, proposer niveaux alternatifs
+
+GIVRAGE (Icing)
+- Givrage léger : légère accumulation, peu dangereux
+- Givrage modéré : accumulation rapide, utiliser dégivrage
+- Givrage sévère : accumulation très rapide, danger immédiat
+- Action ATC : informer pilotes, proposer changement de niveau ou route
+
+ORAGES (Thunderstorms/CB)
+- Cumulonimbus (CB) : à éviter impérativement
+- Déviation latérale minimale : 20 NM d'un CB actif
+- SIGMET : information météo significative diffusée par le VACC
+- Action ATC : informer pilotes, coordonner déviations de route
+
+2. RAPPORTS MÉTÉO
+
+METAR (Meteorological Aerodrome Report)
+- Émis toutes les 30 minutes ou à la demande
+- Format : METAR GMMN 121200Z 27015KT 9999 FEW025 SCT080 22/14 Q1015 NOSIG
+- GMMN = Casablanca Mohamed V, 12 = jour, 1200Z = heure UTC
+
+SPECI (Special Weather Report)
+- Émis quand conditions changent brusquement
+- Visibilité passe sous minima, orage, windshear, changement vent brutal
+
+TAF (Terminal Aerodrome Forecast)
+- Prévision météo aérodrome sur 24 ou 30 heures
+- Utilisé pour planification et calcul carburant de dégagement
+
+SIGMET
+- Information météo significative pour la navigation aérienne
+- CB, turbulences sévères, givrage sévère, cendres volcaniques
+- Valide maximum 4 heures (6h pour phénomènes tropicaux)
+
+3. MINIMA MÉTÉO AÉROPORT CASABLANCA (GMMN)
+- ILS CAT I piste 17L/35R : visibilité 550m, plafond 200 pieds
+- ILS CAT II : visibilité 300m, plafond 100 pieds  
+- ILS CAT III : visibilité 75m, plafond 0 pieds (selon équipement)
+- Vent traversier maximum : 20 noeuds (opérations normales)
+- Vent traversier limite : 35 noeuds (conditions exceptionnelles)
+
+=== DÉTOURNEMENT (HIJACKING) ===
+
+PROCÉDURE CONFIDENTIELLE - NE JAMAIS MENTIONNER SUR FRÉQUENCE RADIO
+
+1. Identification : transpondeur 7500 ou signal convenu
+2. Action ATC immédiate :
+   - Informer superviseur et sécurité aéroport DISCRÈTEMENT
+   - Alerter autorités (police, armée) sans le mentionner sur fréquence
+   - Traiter l'aéronef normalement en apparence
+   - Coordonner avec aéroports concernés discrètement
+3. Ne JAMAIS confirmer le code 7500 sur fréquence radio
+4. Suivre protocole sécurité établi par autorité nationale

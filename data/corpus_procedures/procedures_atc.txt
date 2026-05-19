@@ -1,0 +1,88 @@
+PROCÉDURES DE CONTRÔLE DE LA CIRCULATION AÉRIENNE (ATC)
+Source: OACI Doc 4444 - PANS-ATM
+
+=== SÉPARATION DES AÉRONEFS ===
+
+1. SÉPARATION VERTICALE
+- Séparation verticale minimale standard : 1000 pieds (300m) en dessous du FL290
+- Séparation verticale minimale réduite (RVSM) : 1000 pieds entre FL290 et FL410
+- Au-dessus du FL410 : 2000 pieds de séparation requise
+- La séparation verticale est assurée par l'attribution de niveaux de vol différents
+
+2. SÉPARATION HORIZONTALE
+- Séparation latérale minimale en route : 5 NM (milles nautiques) en radar
+- Séparation longitudinale minimale : 5 NM en environnement radar
+- Sans radar : séparation de 10 minutes de vol ou 1 degré de longitude
+- En approche : 3 NM entre aéronefs successifs de même catégorie
+
+3. SÉPARATION EN APPROCHE
+- ILS (Instrument Landing System) : 3 NM minimum entre aéronefs successifs
+- Approche à vue : maintenir contact visuel avec l'aéronef précédent
+- Turbulence de sillage : respecter les distances selon catégorie (Heavy/Medium/Light)
+  * Heavy suivant Heavy : 4 NM
+  * Medium suivant Heavy : 5 NM
+  * Light suivant Heavy : 6 NM
+
+=== PHRASÉOLOGIE STANDARD ===
+
+1. CLAIRANCES DE DÉPART
+- "AF447, autorisé destination Paris CDG, décollage piste 28L, montée initiale 5000 pieds, départ RANUX1B, transpondeur 2341"
+- "Cleared to destination, runway 28L, initial climb 5000ft, RANUX1B departure, squawk 2341"
+
+2. CLAIRANCES EN ROUTE
+- Montée : "[Indicatif], montez et maintenez le niveau de vol [XXX]"
+- Descente : "[Indicatif], descendez et maintenez [altitude]"
+- Cap : "[Indicatif], virez à droite/gauche, cap [XXX]"
+- Vitesse : "[Indicatif], réduisez/augmentez vitesse à [XXX] noeuds"
+
+3. COMMUNICATIONS D'APPROCHE
+- "RAM201, descendez et maintenez 3000 pieds, QNH 1013, rapportez établi ILS piste 27"
+- "AT502, vous êtes numéro 2, trafic devant vous Boeing 737 à 10 NM, vent 270/15 noeuds"
+
+4. TRANSFERT DE FRÉQUENCE
+- "RAM201, contactez approche Casablanca 119.7, au revoir"
+- "AT502, fréquence tour 118.3, bonne journée"
+
+=== GESTION DES ESPACES AÉRIENS ===
+
+1. CLASSES D'ESPACE AÉRIEN (OACI)
+- Classe A : IFR uniquement, tous les vols sous contrôle ATC
+- Classe B : IFR et VFR, tous sous contrôle ATC
+- Classe C : IFR et VFR, IFR séparé de tous, VFR séparé de IFR
+- Classe D : IFR et VFR, IFR séparé de IFR et VFR, information trafic
+- Classe E : IFR sous contrôle, VFR non contrôlé
+- Classe F : Service consultatif uniquement
+- Classe G : Espace non contrôlé
+
+2. ZONES RÉGLEMENTÉES
+- TMA (Terminal Manoeuvring Area) : espace autour des grands aéroports
+- CTR (Control Zone) : zone de contrôle autour d'un aérodrome
+- AWY (Airways) : routes aériennes balisées
+- FIR (Flight Information Region) : région d'information de vol
+
+3. NIVEAUX DE VOL
+- FL100 = 10 000 pieds en pression standard (1013.25 hPa)
+- Transition altitude Maroc : 4000 pieds
+- Niveau de transition : variable selon QNH
+- En dessous de l'altitude de transition : altitudes en pieds (QNH)
+- Au-dessus du niveau de transition : niveaux de vol (FL)
+
+=== PROCÉDURES DE COORDINATION ===
+
+1. TRANSFERT DE CONTRÔLE
+- Estimer l'heure de passage au point de transfert
+- Coordonner le niveau et la vitesse avec le secteur suivant
+- Transférer minimum 2 minutes avant le point de limite
+- Confirmer la prise en charge avant de libérer l'aéronef
+
+2. GESTION DES FLUX
+- ATFM (Air Traffic Flow Management) : réguler le trafic pour éviter la saturation
+- Slot : créneau horaire attribué à un vol
+- Miles-in-trail : espacement imposé entre aéronefs sur une même route
+- Holding : attente en circuit fermé au-dessus d'un point de navigation
+
+3. COORDINATION MILITAIRE
+- Zones réservées (R) : réservées aux vols militaires
+- Zones dangereuses (D) : activités dangereuses pour l'aviation civile
+- Zones interdites (P) : survol interdit (centrales, palais...)
+- Coordination préalable obligatoire pour traversée de ces zones
