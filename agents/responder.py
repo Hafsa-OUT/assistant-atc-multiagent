@@ -32,7 +32,7 @@ Question du contrôleur: {question}
 Analyse produite:
 {analysis_result}
 
-{"✅ Réponse validée par superviseur humain." if human_approved else ""}
+{"Réponse validée par superviseur humain." if human_approved else ""}
 
 Formule la réponse opérationnelle finale.
 """
