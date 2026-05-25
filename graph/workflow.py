@@ -1,5 +1,5 @@
 """
-Graphe LangGraph principal - Orchestration du système multi-agent ATC.
+Graphe LangGraph principal - Coordination du système multi-agent ATC
 """
 from typing import TypedDict
 from langgraph.graph import StateGraph, END, START
