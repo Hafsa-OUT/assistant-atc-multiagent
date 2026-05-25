@@ -1,0 +1,19 @@
+[project]
+name = "assistant-atc-multiagent"
+version = "1.0.0"
+description = "Système multi-agent d'assistance ATC - LangChain + LangGraph"
+authors = [
+    {name = "Hafsa Outgadirt"}
+]
+requires-python = ">=3.11"
+
+dependencies = [
+    "langchain>=0.3.0",
+    "langgraph>=0.2.0",
+    "langchain-openai>=0.2.0",
+    "langchain-community>=0.3.0",
+    "faiss-cpu>=1.8.0",
+    "streamlit>=1.39.0",
+    "python-dotenv>=1.0.0",
+    "openai>=1.0.0",
+]
