@@ -36,7 +36,7 @@ Question du contrôleur: {question}
 Résultats de recherche:
 {research_result}
 
-{"⚠️ ATTENTION: Situation critique détectée. Évalue si validation humaine nécessaire." if needs_human else ""}
+{"ATTENTION: Situation critique détectée. Évalue si validation humaine nécessaire." if needs_human else ""}
 
 Produis ton analyse complète.
 """
