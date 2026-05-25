@@ -27,6 +27,8 @@ uv sync
 
 ## Configuration
 Créer un fichier `.env` :
+LLM_PROVIDER=ollama
+LLM_MODEL=llama3
 ## Lancer l'interface
 streamlit run ui/app.py
 
@@ -40,4 +42,4 @@ streamlit run ui/app.py
 └── ui/            # Interface Streamlit
 
 ## Auteur
-Hafsa Outgadirt — Master SDIA
+Hafsa Outgadirt — Master SDIA 2025/2026
