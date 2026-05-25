@@ -1,5 +1,5 @@
 """
-Agent Analyst - Analyse les résultats du Researcher ATC.
+Agent Analyst - Analyse les résultats du Researcher ATC
 """
 from pathlib import Path
 from langchain_core.messages import HumanMessage, SystemMessage
