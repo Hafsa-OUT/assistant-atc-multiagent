@@ -25,7 +25,7 @@ class AgentState(TypedDict):
 
 
 def human_checkpoint_node(state: AgentState) -> AgentState:
-    print("[Human-in-the-Loop] ⚠️ Validation requise!")
+    print("[Human-in-the-Loop]  Validation requise!")
 
     context_for_human = {
         "question": state.get("question"),
