@@ -1,5 +1,5 @@
 """
-Agent Responder - Formule la réponse finale ATC.
+Agent Responder - Formule la réponse finale ATC
 """
 from pathlib import Path
 from langchain_core.messages import HumanMessage, SystemMessage
