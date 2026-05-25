@@ -1,5 +1,5 @@
 """
-Agent Supervisor - Orchestre les agents via LangGraph.
+Agent Supervisor - Coordonne les agents via LangGraph
 """
 from pathlib import Path
 from langchain_core.messages import HumanMessage, SystemMessage
